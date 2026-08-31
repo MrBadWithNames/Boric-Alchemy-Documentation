@@ -16,6 +16,8 @@ Okay? Okay!
 
 Also – this is not a copy of the handbook – I won’t re-explain every single recipe, especially for recipes with many varaints.
 
+The Boric Alchemy creative tab has over 700 entries, and that doesn't show recipes and stuff!
+
 Also, in-game, I like to keep a narrator tone – expect more swearing.
 
 **Hydrocarbons**.
