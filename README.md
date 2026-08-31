@@ -1,5 +1,8 @@
 # Boric-Alchemy-Documentation
+
+
 Foreword: Hey, hey, it’s ya’ boy, MrBadWithNames!
+
 I have recently been asked for some form of documentation, and since the handbook is a nightmare to edit and update (because it’s one long line of text, interspersed with vintage story’s HTML format.)
 Put yourself in my shoes, and try to edit:
 
